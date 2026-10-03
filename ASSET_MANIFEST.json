@@ -1,0 +1,134 @@
+[
+  {
+    "path": "public/audio/memory.mp3",
+    "sourceArchive": "minji_archive-main (1).zip",
+    "sourceEntry": "minji_archive-main/MEMORY.mp3",
+    "bytes": 4892834,
+    "sha256": "198620a2860ad14eec9e67ea0282f85e2c0ed26aab84d4d320c259cef3cc7c7e",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "format": {
+        "duration": "391.627755"
+      }
+    },
+    "decodedWithoutErrors": true
+  },
+  {
+    "path": "public/audio/lost.mp3",
+    "sourceArchive": "minji_archive-main (1).zip",
+    "sourceEntry": "minji_archive-main/LOST.mp3",
+    "bytes": 3747350,
+    "sha256": "dc05f446b66e7e35ab6a79e07b797862675c5e398789e670fb59b3d5cda5e74c",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "format": {
+        "duration": "156.061315"
+      }
+    },
+    "decodedWithoutErrors": true
+  },
+  {
+    "path": "public/audio/rain.mp3",
+    "sourceArchive": "minji_archive-main (1).zip",
+    "sourceEntry": "minji_archive-main/RAIN.mp3",
+    "bytes": 5380525,
+    "sha256": "80aaddd0e33a27f01463ba98813863d77ea8edc2c0c5f94b7d6cead57919c98a",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "format": {
+        "duration": "224.119002"
+      }
+    },
+    "decodedWithoutErrors": true
+  },
+  {
+    "path": "public/audio/rust-of-life.mp3",
+    "sourceArchive": "minji_archive-main (1).zip",
+    "sourceEntry": "minji_archive-main/RUST OF LIFE.mp3",
+    "bytes": 3914742,
+    "sha256": "d8a643f668c849a1c453ce848a07f9f7ed763808945e8b41d36514d98decccde",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "format": {
+        "duration": "163.050522"
+      }
+    },
+    "decodedWithoutErrors": true
+  },
+  {
+    "path": "public/audio/burner-boy.mp3",
+    "sourceArchive": "minji_archive-main (1).zip",
+    "sourceEntry": "minji_archive-main/Wgft BURNER BOY.mp3",
+    "bytes": 4430086,
+    "sha256": "4fd499f1ea0e6851c1714220cc64cefd4580381212c81822cca27becb15b3fd7",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "format": {
+        "duration": "184.528980"
+      }
+    },
+    "decodedWithoutErrors": true
+  },
+  {
+    "path": "public/audio/wonder.mp3",
+    "sourceArchive": "minji_archive-main (1).zip",
+    "sourceEntry": "minji_archive-main/WONDER.mp3",
+    "bytes": 5363181,
+    "sha256": "a0494e3e7c444a689c8cf1ef13c8d99d859c5b1a3ade4e37bfb5340408358080",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "format": {
+        "duration": "223.402667"
+      }
+    },
+    "decodedWithoutErrors": true
+  }
+]
